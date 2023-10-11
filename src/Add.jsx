@@ -30,9 +30,9 @@ function Add() {
           id=""
         />
           <button type="submit">
-        <Link to='/' >
+        
             <FaPlus className="mx-auto mt-20  p-1 rounded-full bg-[#0f4c7f]  text-4xl" />
-        </Link>
+       
           </button>
       </form>
     </div>
